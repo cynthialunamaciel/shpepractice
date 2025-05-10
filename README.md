@@ -1,2 +1,2 @@
 # shpepractice
-shpe x iit workshop lol
+shpe x iit workshop
